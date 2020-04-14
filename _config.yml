@@ -72,6 +72,7 @@ exclude: ['node_modules', 'dev', 'package.json', 'gulpfile.js', '.gitignore', 'R
 
 # Markdown
 markdown: kramdown
+ #代码高亮插件
 highlighter: rouge
 kramdown:
   input: GFM
